@@ -1,6 +1,6 @@
 {
   "name": "blackberry-core",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Core classes and types for Blackberry.",
   "main": "index.ts",
   "repository": {
