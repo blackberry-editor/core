@@ -1,15 +1,4 @@
-export namespace editor {
-    export * from "./editor";
-}
-
-export namespace files {
-    export * from "./files";
-}
-
-export namespace maps {
-    export * from "./maps";
-}
-
-export namespace util {
-    export * from "./util";
-}
+export * as editor from "./editor";
+export * as files from "./files";
+export * as maps from "./maps";
+export * as util from "./util";
