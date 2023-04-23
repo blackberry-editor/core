@@ -1,8 +1,8 @@
 {
-  "name": "blackberry-core",
+  "name": "@blackberryeditor/blackberry-core",
   "version": "0.0.1",
   "description": "Core classes and types for Blackberry.",
-  "main": "index.ts",
+  "main": "src/index.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/frqstbite/blackberry-core.git"
