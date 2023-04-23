@@ -1,20 +1,22 @@
 {
-  "name": "@blackberryeditor/blackberry-core",
+  "name": "@blackberryeditor/core",
   "version": "0.0.1",
   "description": "Core classes and types for Blackberry.",
   "main": "src/index.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frqstbite/blackberry-core.git"
+    "url": "git+https://github.com/blackberryeditor/core.git"
   },
   "author": "Frqstbite",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/frqstbite/blackberry-core/issues"
+    "url": "https://github.com/blackberryeditor/core/issues"
   },
-  "homepage": "https://github.com/frqstbite/blackberry-core#readme",
+  "homepage": "https://github.com/blackberryeditor/core#readme",
   "devDependencies": {
-    "@vue/runtime-core": "^3.2.47",
     "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@vue/runtime-core": "^3.2.47"
   }
 }
