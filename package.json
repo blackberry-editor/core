@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/blackberryeditor/core.git"
   },
+  "scripts": {
+      "test": "tsc --noEmit && echo Done type checking! && echo Done testing!"
+  },
   "author": "Frqstbite",
   "license": "ISC",
   "bugs": {
